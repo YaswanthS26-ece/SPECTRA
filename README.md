@@ -75,3 +75,7 @@ For prototyping, the I/O connects to onboard elements:
 - **Phase 3:** Clock/Power Gating & Multi-Power Domain Management
 - **Phase 4:** Dynamic Voltage & Frequency Scaling (DVFS) & PPA Optimization
 - **Phase 5:** Final ASIC-ready Edge-AI / SoC Integration
+
+## Team Members
+* AshwinkK17
+* YaswanthS26-ece
